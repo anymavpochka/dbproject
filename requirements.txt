@@ -52,7 +52,6 @@ sympy==1.6.2
 tensorboard-plugin-wit==1.7.0
 termcolor==1.1.0
 threadpoolctl==2.1.0
-vine==5.0.0x
 virtualenv==20.1.0
 virtualenv-clone==0.5.4
 wcwidth==0.2.5
